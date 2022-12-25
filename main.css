@@ -279,7 +279,7 @@ hr{
 }
 .footer-left .fa-solid,.footer-right .fa-solid{
     font-size: 20px;
-    color: #009688;
+    color: rgb(109, 93, 5) ;
     margin: 10px;
 }
 .footer-left .fa-brands,.footer-right .fa-brands{

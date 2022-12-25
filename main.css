@@ -282,3 +282,12 @@ hr{
     color: #009688;
     margin: 10px;
 }
+.footer-left .fa-brands,.footer-right .fa-brands{
+    font-size: 20px;
+    color:  rgb(109, 93, 5);
+    margin: 10px;
+}
+.footer-left a{
+    text-decoration: none ;
+    color: black;
+}
